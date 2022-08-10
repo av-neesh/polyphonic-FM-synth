@@ -9,6 +9,21 @@
 
 Max for Live can completely change how Live interacts with all things external. Reconfigure connections to hardware controllers & synthesizers. Route audio to multiple sets of speakers from your Live project. Use Live to control physical objects like motors and lights using Arduino, OSC and other technologies—there are infinite possibilities for connection and control between Live and the world surrounding it.
 
+### The Synth Instrument:
+
+The Polyphonic FM Audio Instrument looks like this:
+
+![Poly Synth](https://user-images.githubusercontent.com/110298158/183830142-34f4615b-fae8-46a6-9ded-6807e003d5e4.png)
+
+It contains the following parts:
+
+- ***Carrier*** :
+- ***Modulator*** :
+- ***Mixer Tools*** :
+- ***Master Filter*** :
+- ***Master Volume*** :
+- ***Modulation Matrix*** :
+
 ### Steps:
 
 - The [**.amxd**](https://github.com/av-neesh/polyphonic-FM-synth/blob/main/poly_avneesh_synth.amxd) Ableton Max Device file is the master file for running the device as a plugin in Ableton Live.
